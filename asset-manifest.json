@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/desafio-06-codelandia/static/css/main.446b33a9.css",
+    "main.js": "/desafio-06-codelandia/static/js/main.03d0ab7b.js",
+    "static/js/787.4f5539da.chunk.js": "/desafio-06-codelandia/static/js/787.4f5539da.chunk.js",
+    "static/media/banner_loki_desktop.png": "/desafio-06-codelandia/static/media/banner_loki_desktop.037d22ec82f65d0f35e8.png",
+    "static/media/banner_loki_mobile.png": "/desafio-06-codelandia/static/media/banner_loki_mobile.0f39ef79088f043bae5d.png",
+    "static/media/capa.png": "/desafio-06-codelandia/static/media/capa.09540ebfb20a821e057b.png",
+    "index.html": "/desafio-06-codelandia/index.html",
+    "static/media/clock.svg": "/desafio-06-codelandia/static/media/clock.da634e18fce2352d41bf7fdfac746e28.svg",
+    "static/media/GreyStar.svg": "/desafio-06-codelandia/static/media/GreyStar.dc419cd774f7323a1c4ece17ad6ec02d.svg",
+    "static/media/YellowStar.svg": "/desafio-06-codelandia/static/media/YellowStar.559aac3b2cb25827a9d021a060f2c96d.svg",
+    "main.446b33a9.css.map": "/desafio-06-codelandia/static/css/main.446b33a9.css.map",
+    "main.03d0ab7b.js.map": "/desafio-06-codelandia/static/js/main.03d0ab7b.js.map",
+    "787.4f5539da.chunk.js.map": "/desafio-06-codelandia/static/js/787.4f5539da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.446b33a9.css",
+    "static/js/main.03d0ab7b.js"
+  ]
+}
